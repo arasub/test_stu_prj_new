@@ -1,2 +1,2 @@
-# test_stu_prj_new
+# README
 This is a test new prj
